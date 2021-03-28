@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/api.novam.iml" filepath="$PROJECT_DIR$/.idea/api.novam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../apps/apps.novam/.idea/apps.novam.iml" filepath="$PROJECT_DIR$/../../apps/apps.novam/.idea/apps.novam.iml" />
     </modules>
   </component>
 </project>
