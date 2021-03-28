@@ -1,0 +1,13 @@
+{
+    "name": "novamonline/apis",
+    "description": "Source of truth for all php code used by Novam Online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hilkiah Makemo",
+            "email": "hilmak01@gmail.com"
+        }
+    ],
+    "require": {}
+}
